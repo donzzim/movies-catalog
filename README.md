@@ -1,16 +1,39 @@
-# React + Vite
+🎬 Movies Catalog
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple movie catalog application built with React and Vite, designed to display and organize a collection of movies. This project serves as a solid foundation for adding features such as search, filters, favorites, and external movie APIs integration.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚛️ Built with React
 
-## React Compiler
+⚡ Fast development environment using Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+🔥 Hot Module Replacement (HMR)
 
-## Expanding the ESLint configuration
+🎨 Basic styling for a movie catalog UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧩 Component-based architecture
+
+🛠 Technologies Used
+Technology	Description
+React	Library for building user interfaces
+Vite	Fast build tool and dev server
+JavaScript	Main programming language
+CSS	Styling
+ESLint	Code quality and linting
+
+✨ Possible Improvements
+
+Here are some ideas to expand the project:
+
+🔍 Movie search by title
+
+⭐ Ratings and reviews
+
+🎭 Filter by genre or release year
+
+❤️ Favorites list
+
+🌐 Integration with external APIs (TMDB, OMDb)
+
+🔐 Authentication and user profiles
