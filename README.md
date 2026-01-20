@@ -15,7 +15,6 @@ A simple movie catalog application built with React and Vite, designed to displa
 🧩 Component-based architecture
 
 🛠 Technologies Used
-Technology	Description
 React	Library for building user interfaces
 Vite	Fast build tool and dev server
 JavaScript	Main programming language
